@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+img{
+    width: 300px;
+    border-radius: 10%;
+}
